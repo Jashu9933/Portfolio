@@ -739,13 +739,20 @@ padding:12px 20px;
 /* HERO */
 
 .hero{
-padding:80px 20px 40px 20px;
-margin-top: -50px;
-margin-bottom: -80px;
+padding:120px 20px 80px 20px;   /* adds space above and below */
+margin-top:0;
+margin-bottom:0;
 }
 
 .hero-title{
-font-size:38px;
+font-size:34px;                 /* slightly smaller so name fits */
+line-height:1.3;
+}
+
+.hero-sub{
+margin-top:20px;
+padding:0 10px;
+font-size:16px;
 }
 
 .hero-sub{
