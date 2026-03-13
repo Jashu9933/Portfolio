@@ -739,9 +739,9 @@ padding:12px 20px;
 /* HERO */
 
 .hero{
-padding:120px 20px 40px 20px;   /* adds space above and below */
+padding:80px 20px 40px 20px;   /* adds space above and below */
 margin-top:0;
-margin-bottom: -80px;
+margin-bottom: 0px;
 }
 
 .hero-title{
