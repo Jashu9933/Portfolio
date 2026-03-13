@@ -739,7 +739,7 @@ padding:12px 20px;
 /* HERO */
 
 .hero{
-padding:80px 20px 20px 20px;   /* adds space above and below */
+padding:60px 20px 40px 20px;   /* adds space above and below */
 margin-top:0;
 margin-bottom: 0px;
 }
@@ -762,6 +762,7 @@ font-size:16px;
 .hero-buttons{
 flex-direction:column;
 gap:15px;
+margin-bottom:0px;
 }
 
 /* ABOUT */
