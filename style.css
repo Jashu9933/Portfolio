@@ -82,6 +82,9 @@ color:#ffffff;
 font-size:20px;
 font-weight:600;
 }
+nav a:hover{
+color:#22d3ee;
+}
 
 .hero{
 min-height:90vh;
