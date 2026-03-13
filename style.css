@@ -741,7 +741,7 @@ padding:12px 20px;
 .hero{
 padding:120px 20px 40px 20px;   /* adds space above and below */
 margin-top:0;
-margin-bottom:0;
+margin-bottom: -80px;
 }
 
 .hero-title{
